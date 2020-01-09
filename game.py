@@ -47,7 +47,7 @@ def game():
             print(f"Your all time best score is {best_score}")
             break
             
-best_score = []
+best_score = [] 
 x = 1
 while True:
     
